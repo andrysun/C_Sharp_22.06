@@ -2,7 +2,7 @@
 //    недели по заданному номеру.
 
 Console.WriteLine("Write number of day & this programm input name of day");
-string day_of_week = Console.ReadLine();
+string day_of_week = Console.ReadLine()!;
 
 switch (day_of_week)
 {
