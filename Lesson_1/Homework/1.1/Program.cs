@@ -5,7 +5,7 @@ Console.WriteLine("Введите три числа: ");
 int num_1 = int.Parse(Console.ReadLine()!);
 int num_2 = int.Parse(Console.ReadLine()!);
 int num_3 = int.Parse(Console.ReadLine()!);
-int max = 0;
+int max = num_1;
 
 if (num_1 > max)
 {
