@@ -1,0 +1,15 @@
+D:\Курсы Python\C#\Sem_1\C_Sharp_22.06\Lesson_1\1.2\bin\Debug\net6.0\1.2.exe
+D:\Курсы Python\C#\Sem_1\C_Sharp_22.06\Lesson_1\1.2\bin\Debug\net6.0\1.2.deps.json
+D:\Курсы Python\C#\Sem_1\C_Sharp_22.06\Lesson_1\1.2\bin\Debug\net6.0\1.2.runtimeconfig.json
+D:\Курсы Python\C#\Sem_1\C_Sharp_22.06\Lesson_1\1.2\bin\Debug\net6.0\1.2.dll
+D:\Курсы Python\C#\Sem_1\C_Sharp_22.06\Lesson_1\1.2\bin\Debug\net6.0\1.2.pdb
+D:\Курсы Python\C#\Sem_1\C_Sharp_22.06\Lesson_1\1.2\obj\Debug\net6.0\1.2.csproj.AssemblyReference.cache
+D:\Курсы Python\C#\Sem_1\C_Sharp_22.06\Lesson_1\1.2\obj\Debug\net6.0\1.2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курсы Python\C#\Sem_1\C_Sharp_22.06\Lesson_1\1.2\obj\Debug\net6.0\1.2.AssemblyInfoInputs.cache
+D:\Курсы Python\C#\Sem_1\C_Sharp_22.06\Lesson_1\1.2\obj\Debug\net6.0\1.2.AssemblyInfo.cs
+D:\Курсы Python\C#\Sem_1\C_Sharp_22.06\Lesson_1\1.2\obj\Debug\net6.0\1.2.csproj.CoreCompileInputs.cache
+D:\Курсы Python\C#\Sem_1\C_Sharp_22.06\Lesson_1\1.2\obj\Debug\net6.0\1.2.dll
+D:\Курсы Python\C#\Sem_1\C_Sharp_22.06\Lesson_1\1.2\obj\Debug\net6.0\refint\1.2.dll
+D:\Курсы Python\C#\Sem_1\C_Sharp_22.06\Lesson_1\1.2\obj\Debug\net6.0\1.2.pdb
+D:\Курсы Python\C#\Sem_1\C_Sharp_22.06\Lesson_1\1.2\obj\Debug\net6.0\1.2.genruntimeconfig.cache
+D:\Курсы Python\C#\Sem_1\C_Sharp_22.06\Lesson_1\1.2\obj\Debug\net6.0\ref\1.2.dll
