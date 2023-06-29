@@ -3,8 +3,7 @@
 
 int Procedure(int num)
 {
-    int res_mid = num % 100;
-    int res = res_mid / 10;
+    int res = ((num % 100)/10);
     return res;
 }
 

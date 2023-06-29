@@ -1,16 +1,15 @@
 ﻿// 1. Напишите программу, которая выводит случайное трёхзначное число
 //    и удаляет вторую цифру этого числа
 
-void Div(int num_first, int num_second)
+void Div(int num)
 {
-    Console.Write($"Получившееся число: {num_first}");
-    Console.Write(num_second);
+    int num_first = num /100;
+    int num_end = num % 10;
+    string str_first = num_first.ToString();
+    string str_end = num_end.ToString();
+    Console.Write($"Получившееся число: {str_first + str_end} из числа {num}");
+
 }
 
 int number = new Random().Next(100, 1000);
-int res_mid = number % 10;
-int res = number / 100;
-Div(res, res_mid);
-
-Console.Write(" Из числа: ");
-Console.Write(number);
+Div(number);
