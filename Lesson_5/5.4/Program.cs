@@ -55,7 +55,8 @@ int[] NewArray(int[] arr)
     else arr_2 = new int[Length / 2 + 1];
     for (int i = 0; i < arr_2.Length; i++)
     {
-        if (arr[i] != arr[Length - i - 1]) arr_2[i] = arr[i] * arr[Length - i - 1];
+        if (i != Length - i - 1) 
+            arr_2[i] = arr[i] * arr[Length - i - 1];
         else arr_2[arr_2.Length - 1] = arr[i];
     }
     return arr_2;
