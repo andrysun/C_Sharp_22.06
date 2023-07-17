@@ -1,6 +1,6 @@
 ﻿// 4. Задайте двумерный массив. Введите элемент, и найдите первое его вхождение,
 //    выведите позиции по горизонтали и вертикали, или напишите, что такого элемента нет.
-/*
+
 void PrintArray(int[,] matr)
 {
     for (int i = 0; i < matr.GetLength(0); i++)
@@ -48,4 +48,4 @@ int[,] matrix = new int[m, n];
 FillArray(matrix);
 PrintArray(matrix);
 System.Console.WriteLine();
-System.Console.WriteLine(FindNum(matrix, a));*/
+System.Console.WriteLine(FindNum(matrix, a));
